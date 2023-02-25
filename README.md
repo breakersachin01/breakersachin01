@@ -1,4 +1,4 @@
-![logo](https://github.com/breakersachin01/breakersachin01/blob/main/banner.gif)
+<!-- ![logo](https://github.com/breakersachin01/breakersachin01/blob/main/banner.gif) -->
 <h1 align="center">Hi 👋, I'm Sachin Vishwakarma</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
