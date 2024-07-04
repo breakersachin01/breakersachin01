@@ -1,15 +1,15 @@
 ![logo](https://github.com/breakersachin01/breakersachin01/blob/main/banner.jpg)
 <!-- <img align="right" alt="coding" width="400" src=""> -->
 <h1 align="center">Hi 👋, I'm Sachin Vishwakarma</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Java Full Stack Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=breakersachin01&label=Profile%20views&color=0e75b6&style=flat" alt="breakersachin01" /> </p>
 
-- 🌱 I’m currently learning **web Development, DSA and Python**
+- 🌱 I’m currently learning **Java Full Stack**
 
-- 💬 Ask me about **SQL**
+- 💬 Ask me about **Core java, DSA, SQL**
 
 - 📫 How to reach me **vishwakarmasachin632@gmail.com**
 
