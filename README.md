@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/breakersachin01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="breakersachin01" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sachin01vishwakarma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin vishwakarma" height="30" width="40" /></a>
-<a href="https://instagram.com/breakersachin01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="breakersachin01" height="30" width="40" /></a>
+<a href="https://www.instagram.com/breakersachin01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="breakersachin01" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/breakersachin01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="breakersachin01" height="30" width="40" /></a>
 </p>
 
